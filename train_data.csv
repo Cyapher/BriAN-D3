@@ -1,0 +1,24 @@
+Filename,LandmarksRaw,IlluminanceRaw,IlluminanceRet
+001_nonsleepyCombination_0_0,"{'left_eye': (213, 232), 'right_eye': (306, 222), 'nose': (239, 283), 'mouth_left': (227, 342), 'mouth_right': (298, 332)}",0.29567792373263885,0.29567792373263885
+001_nonsleepyCombination_15_0,"{'left_eye': (215, 230), 'right_eye': (307, 222), 'nose': (238, 285), 'mouth_left': (228, 339), 'mouth_right': (299, 333)}",0.2929762817534723,0.2929762817534723
+001_nonsleepyCombination_30_0,"{'left_eye': (207, 242), 'right_eye': (299, 228), 'nose': (236, 291), 'mouth_left': (226, 352), 'mouth_right': (296, 340)}",0.29606498448350704,0.29606498448350704
+001_nonsleepyCombination_45_0,"{'left_eye': (218, 240), 'right_eye': (313, 232), 'nose': (245, 291), 'mouth_left': (231, 352), 'mouth_right': (304, 345)}",0.2991066410894097,0.2991066410894097
+001_nonsleepyCombination_60_0,"{'left_eye': (223, 246), 'right_eye': (304, 238), 'nose': (242, 295), 'mouth_left': (234, 350), 'mouth_right': (302, 344)}",0.29778815756076393,0.29778815756076393
+001_nonsleepyCombination_75_0,"{'left_eye': (214, 237), 'right_eye': (306, 233), 'nose': (241, 295), 'mouth_left': (227, 352), 'mouth_right': (298, 348)}",0.29540649650173617,0.29540649650173617
+001_nonsleepyCombination_90_0,"{'left_eye': (216, 241), 'right_eye': (309, 230), 'nose': (245, 288), 'mouth_left': (231, 351), 'mouth_right': (303, 342)}",0.2979124167057292,0.2979124167057292
+001_nonsleepyCombination_105_0,"{'left_eye': (225, 235), 'right_eye': (317, 232), 'nose': (249, 291), 'mouth_left': (235, 346), 'mouth_right': (305, 343)}",0.29994796240885413,0.29994796240885413
+001_nonsleepyCombination_120_0,"{'left_eye': (214, 240), 'right_eye': (306, 231), 'nose': (243, 293), 'mouth_left': (229, 350), 'mouth_right': (300, 342)}",0.29637356141927085,0.29637356141927085
+001_nonsleepyCombination_135_0,"{'left_eye': (214, 239), 'right_eye': (305, 232), 'nose': (240, 294), 'mouth_left': (227, 352), 'mouth_right': (299, 347)}",0.2969686096050347,0.2969686096050347
+001_nonsleepyCombination_150_0,"{'left_eye': (207, 241), 'right_eye': (301, 230), 'nose': (236, 291), 'mouth_left': (224, 354), 'mouth_right': (296, 345)}",0.2955887041015627,0.2955887041015627
+001_nonsleepyCombination_165_0,"{'left_eye': (206, 241), 'right_eye': (298, 229), 'nose': (232, 291), 'mouth_left': (223, 354), 'mouth_right': (293, 344)}",0.2953554853255209,0.2953554853255209
+001_nonsleepyCombination_180_0,"{'left_eye': (205, 243), 'right_eye': (299, 232), 'nose': (234, 293), 'mouth_left': (222, 355), 'mouth_right': (293, 346)}",0.29572583037326383,0.29572583037326383
+001_nonsleepyCombination_195_0,"{'left_eye': (210, 242), 'right_eye': (299, 230), 'nose': (235, 290), 'mouth_left': (226, 351), 'mouth_right': (293, 342)}",0.2982099434548611,0.2982099434548611
+001_nonsleepyCombination_210_0,"{'left_eye': (204, 240), 'right_eye': (297, 227), 'nose': (230, 286), 'mouth_left': (221, 349), 'mouth_right': (290, 340)}",0.2962725415060764,0.2962725415060764
+001_nonsleepyCombination_225_0,"{'left_eye': (210, 242), 'right_eye': (303, 233), 'nose': (237, 291), 'mouth_left': (221, 353), 'mouth_right': (292, 346)}",0.29734921070746534,0.29734921070746534
+001_nonsleepyCombination_240_0,"{'left_eye': (215, 242), 'right_eye': (308, 237), 'nose': (239, 298), 'mouth_left': (224, 356), 'mouth_right': (294, 351)}",0.2991478864409722,0.2991478864409722
+001_nonsleepyCombination_255_0,"{'left_eye': (216, 240), 'right_eye': (306, 235), 'nose': (238, 294), 'mouth_left': (225, 353), 'mouth_right': (297, 348)}",0.2994491296354166,0.2994491296354166
+001_nonsleepyCombination_270_0,"{'left_eye': (208, 245), 'right_eye': (297, 234), 'nose': (235, 293), 'mouth_left': (222, 352), 'mouth_right': (292, 343)}",0.30130716860243045,0.30130716860243045
+001_nonsleepyCombination_285_0,"{'left_eye': (219, 238), 'right_eye': (310, 230), 'nose': (242, 290), 'mouth_left': (230, 345), 'mouth_right': (304, 338)}",0.30357968514756944,0.30357968514756944
+001_nonsleepyCombination_300_0,"{'left_eye': (227, 236), 'right_eye': (316, 226), 'nose': (249, 287), 'mouth_left': (238, 341), 'mouth_right': (314, 332)}",0.3030869698003473,0.3030869698003473
+001_nonsleepyCombination_315_0,"{'left_eye': (202, 238), 'right_eye': (292, 225), 'nose': (228, 290), 'mouth_left': (218, 344), 'mouth_right': (296, 332)}",0.29666136572916657,0.29666136572916657
+001_nonsleepyCombination_330_0,"{'left_eye': (211, 237), 'right_eye': (300, 226), 'nose': (236, 290), 'mouth_left': (225, 341), 'mouth_right': (304, 330)}",0.3008464508680555,0.3008464508680555
