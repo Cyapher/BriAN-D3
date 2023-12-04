@@ -1,7 +1,9 @@
 
 /data
 /NTHU Dataset
+/Keras Files
 eval_data.csv
 *.csv
 eval_data.csv
 train_data.csv
+*.keras
