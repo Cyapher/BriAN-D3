@@ -1,4 +1,5 @@
-
+/retinex_results_train
+/retinex_results_eval
 /data
 /NTHU Dataset
 /Keras Files
