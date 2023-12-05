@@ -1,3 +1,5 @@
 /data
 /NTHU Dataset
 *.csv
+/retinex_results_eval
+/retinex_results_train
